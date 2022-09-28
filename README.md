@@ -1,10 +1,7 @@
 # WeatherApP
 An nice and Cozy weather APP 
 
-# Deccan-Herald
 
-
-<img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH.jpg">
 
 
 ## Description

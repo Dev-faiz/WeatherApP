@@ -44,7 +44,7 @@ An nice and Cozy weather APP
 ### Screenshots
 
 <img align="left" alt="Coding" width="150" src="https://github.com/Dev-faiz/WeatherApP/blob/main/pic/MobVersion.jpeg">
-<img align="left" alt="Coding" width="150" src="https://github.com/Dev-faiz/WeatherApP/blob/main/pic/Weather.png">
+<img align="left" alt="Coding" width="650" src="https://github.com/Dev-faiz/WeatherApP/blob/main/pic/Weather.png">
 
 
 
